@@ -1,6 +1,6 @@
 {
   "name": "oxlint-config-react-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Configuration oxlint + oxfmt partagée pour applications React/TypeScript",
   "license": "MIT",
   "type": "module",

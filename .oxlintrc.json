@@ -47,6 +47,10 @@
     "no-magic-numbers": "off",
     "react/jsx-key": "error",
     "react/self-closing-comp": "warn",
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-max-depth": "off",
+    "sort-keys": "off",
+    "no-ternary": "off",
     "unicorn/prefer-includes": "warn",
     "unicorn/prefer-string-replace-all": "warn"
   },
