@@ -1,0 +1,30 @@
+{
+  "name": "oxlint-config-react-app",
+  "version": "0.1.0",
+  "description": "Configuration oxlint + oxfmt partagée pour applications React/TypeScript",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    ".oxlintrc.json",
+    ".oxfmtrc.json",
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "oxlint",
+    "oxfmt",
+    "eslint",
+    "lint",
+    "react",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github:samsam00z/oxlint-config-react-app"
+  },
+  "dependencies": {
+    "oxlint": "^1.81.0",
+    "oxfmt": "^0.41.0"
+  }
+}
