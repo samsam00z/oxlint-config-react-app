@@ -51,6 +51,13 @@
     "react/jsx-max-depth": "off",
     "sort-keys": "off",
     "no-ternary": "off",
+    "one-var": "off",
+    "sort-imports": "off",
+    "func-style": "off",
+    "unicorn/filename-case": "off",
+    "unicorn/no-null": "off",
+    "curly": "off",
+    "capitalized-comments": "off",
     "unicorn/prefer-includes": "warn",
     "unicorn/prefer-string-replace-all": "warn"
   },
