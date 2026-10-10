@@ -58,6 +58,13 @@
     "unicorn/no-null": "off",
     "curly": "off",
     "capitalized-comments": "off",
+    "id-length": "off",
+    "react/jsx-props-no-spreading": "off",
+    "arrow-body-style": "off",
+    "react/function-component-definition": "off",
+    "unicorn/prefer-export-from": "off",
+    "func-name-matching": "off",
+    "max-statements": "off",
     "unicorn/prefer-includes": "warn",
     "unicorn/prefer-string-replace-all": "warn"
   },
